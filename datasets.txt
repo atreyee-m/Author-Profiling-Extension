@@ -1,0 +1,5 @@
+ - myPersonality dataset from Facebook (obtained from the organizing committee of PAN)
+ - Twitter dataset also obtained from the organizing committee of PAN
+ - Essays dataset also obtained from the organizing committee of PAN
+ - https://www.reddit.com/r/depression/
+ - https://www.reddit.com/r/Anxiety/
